@@ -6,4 +6,4 @@
      EMAIL: queiroz-dev@outlook.com
      PHONE: +55 (11) 98353-2418 (Whatsapp and Telegram)
 ## Stats:
-[![Hoklifter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoklifter)](https://github.com/anuraghazra/github-readme-stats)
+[![Hoklifter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoklifter&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
