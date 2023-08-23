@@ -1,15 +1,7 @@
-- 👋 Hi, I’m @Hoklifter
+# 👋 Hi, I’m Kauã and my username is Hoklifter.
+     I code since 2022, mainly python, but i have basic knowledge in JS, HTML, CSS and Bash.
 
-- 👀 Interested in:
-     Games,
-     General programming applications
-- 🌱 I’m currently deepening my knowledge in:
-     Python
-  
-- 💞️ I’m looking to work as a:
-     Back-End Dev.
-
-- 📫 How to reach me:
-     Telegram : @h0klifter,
-     E-mail : queiroz-dev@outlook.com
-     LinkedIn : https://www.linkedin.com/in/kau%C3%A3-queiroz-5b7085278/
+## Contact me:
+     [LINKEDIN](https://www.linkedin.com/in/kau%C3%A3-queiroz-5b7085278/)
+     EMAIL: queiroz-dev@outlook.com
+     PHONE: +55 (11) 98353-2418 (Whatsapp and Telegram)
